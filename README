@@ -1,7 +1,1 @@
-echo "# kimslide" >> README.md 
-git init 
-git add README.md 
-git commit -m "첫 커밋" 
-git branch -M main 
-git remote add origin https://github.com/kims1111/kimslide.git
-git push - 유 오리진 메인
+졸리다
