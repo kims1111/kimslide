@@ -1,8 +1,26 @@
 @charset "utf-8";
 
+/* reset*/
 * {
     margin:0; 
     padding:0;
     list-style: none;
     text-decoration: none;
+}
+
+#wrap {
+    width:100%;
+}
+
+.container_fix {
+    width:1300px;
+    margin:0 auto;
+    
+}
+.tab_ul {
+    display:flex;
+}
+.tab_li {
+    margin:0 5px;
+    cursor:pointer;
 }
